@@ -5,6 +5,8 @@
 
 Este proyecto consiste en un Análisis Exploratorio de Datos (EDA) y la creación de un Dashboard interactivo sobre el rendimiento anual de una pizzería. El objetivo principal es identificar patrones de consumo, picos de demanda y eficiencia para optimizar la toma de decisiones operativa. La carga se realizó desde un archivo CSV, verificando la integridad de los registros para asegurar una manipulación fluida de la información en las tablas dinámicas.
 
+  🌐 **Origen de los Datos:** [Kaggle - Pizza Sales Dataset](https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset/data)
+
 ## 🗂 2. Estructura del Proyecto ##
 
   ├ ── Dashboard-Pizza_Sales.xlsx # Archivo principal con Datos, Análisis y Dashboard 
